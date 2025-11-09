@@ -2,14 +2,14 @@
 
 # Graph Algorithms for Real-World Problems
 
-## 📖 Project Overview
+##  Project Overview
 This project implements four fundamental graph algorithms to solve practical real-world problems:
 1. **Social Network Friend Suggestion** using BFS
 2. **Google Maps Route Finding** using Bellman-Ford  
 3. **Emergency Response System** using Dijkstra's Algorithm
 4. **Network Cable Installation** using Prim's MST
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 - Python 3.7+
