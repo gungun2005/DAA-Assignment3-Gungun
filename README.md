@@ -25,18 +25,23 @@ networkx>=2.6.0
 Running Individual Problems
 
 Problem 1: Social Network
+
 python social_network.ipynb
 
-Problem 2: Route Finding  
+Problem 2: Route Finding
+
 python navigation_system.ipynb
 
 Problem 3: Emergency Response
+
 python emergency_response.ipynb
 
 Problem 4: Cable Installation
+
 python network_installation.ipynb
 
 Run Performance Profiling
+
 python performance_profiling.py
 
 
